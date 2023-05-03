@@ -1,1 +1,1 @@
-snscrape.modules.twitter
+snscrape
