@@ -1,1 +1,1 @@
-streamlit
+snscrape.modules.twitter
