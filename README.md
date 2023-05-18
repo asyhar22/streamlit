@@ -1,11 +1,10 @@
 # Twitter Scrapper
-This repository contains a Python application that can be used to scrape data from Twitter. The application was built using the snscrape library and was deployed using Streamlit.
-The application can be accessed through https://asyhar22-twitter.streamlit.app 
+This repository contains a Python application that enables data scraping from Twitter. The application is built using the snscrape library and deployed using Streamlit. Access the application https://asyhar22-twitter.streamlit.app
 
 ## Features
-The application can be used to scrape tweets, users, and lists.
-The application can be used to filter tweets by keyword and date range.
-The application can be used to export scraped data to CSV or JSON files.
+- Scrapes tweets, users, and lists from Twitter.
+- Provides filtering options for tweets based on keywords and date ranges.
+- Allows exporting scraped data to CSV or JSON files.
 
 ## Known Issues
-The application may run into some errors due to Twitter's rapid change on its terms and policy.
+The application may encounter occasional errors due to Twitter's frequent updates and changes to its terms and policies.
