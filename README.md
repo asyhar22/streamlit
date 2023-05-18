@@ -4,7 +4,7 @@ The application can be accessed through https://asyhar22-twitter.streamlit.app
 
 ## Features
 The application can be used to scrape tweets, users, and lists.
-The application can be used to filter tweets by keyword, language, and date range.
+The application can be used to filter tweets by keyword and date range.
 The application can be used to export scraped data to CSV or JSON files.
 
 ## Known Issues
